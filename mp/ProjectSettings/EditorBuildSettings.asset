@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Alina/Alina.unity
+    guid: 24553dbfcd7621241b62109240e7f3b6
+  - enabled: 1
+    path: Assets/Scenes/Alina/GameplayScene.unity
+    guid: 05cab2dec681b86498c8b825f2b3edd5
   m_configObjects: {}
